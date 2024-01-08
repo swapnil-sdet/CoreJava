@@ -18,7 +18,7 @@ public class australianTraffic implements centralTraffic, continentalTraffic {
 
     @Override
     public void greenGo() {
-        System.out.println("Implementation of greenGo..");
+        System.out.println("Implementation of greenGo test..");
     }
 
     @Override
