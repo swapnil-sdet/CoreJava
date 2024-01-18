@@ -13,6 +13,5 @@ public class dateDemo {
         System.out.println(sdf.format(d));
         System.out.println(d.toString());
 
-
     }
 }
